@@ -1,1 +1,1 @@
-# EC
+# Entertainment computing
